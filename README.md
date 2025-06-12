@@ -10,3 +10,9 @@ Mard Software Founder
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/maurwoit/maurwoit)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/maurwoit/miPrimerRepo)
+
+
+### :zap: Recent activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
