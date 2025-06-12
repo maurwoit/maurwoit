@@ -4,13 +4,12 @@
 
 :office: Mard Software Founder
 
-### Vias de contacto
+### Contact and social media
 
 ![Website](https://img.shields.io/badge/maurwoit.com-up-green?style=for-the-badge)
 
 
-
 ### :zap: Recent activity
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
